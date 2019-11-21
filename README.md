@@ -1,4 +1,7 @@
 # IControl
+
+![IControl](https://user-images.githubusercontent.com/47596396/69335009-34c3e780-0c5c-11ea-80ae-a0ee820edca4.PNG)
+
 IControl Version 1.0 is a tool to create custom pictures / patterns on a Adafruit 8x8 LED Matrix
 
 It was created for a Customer of Navarra Software Solutions, since we both believe in open source and sharing knowledge the Customer agreed on sharing this tool. (Thank you)
